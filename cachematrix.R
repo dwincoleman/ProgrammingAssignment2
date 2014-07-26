@@ -2,7 +2,7 @@
 ## [2] given matrix as input, check cache for its inverse;
 ## if found, return it, else calculate the invere and cahe it
 
-## This function creates the artifical matrix
+## This function creates the artificial matrix
 
 makeCacheMatrix <- function(x = matrix()) {
   m <- NULL
